@@ -1,0 +1,1 @@
+This code is developed based on the work of Cowell and Thompson [1] for calculating the product between a matrix and a vector (c=A:b) with an efficient approach. This approach reduces the computational time of a vector product compared to the traditional loop. The algorithm consist into reduce the number of iterations required.
